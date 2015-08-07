@@ -1,0 +1,2 @@
+### Blow up your idea,write it on Baloon! ###
+Baloon is simple lightweight personal blog engine,write on Php & using Codeigniter as main Framework. The main idea are simple,tiny,lightweight,secure,fit to mobile device's browser screen :)
